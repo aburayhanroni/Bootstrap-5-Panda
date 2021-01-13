@@ -1,9 +1,11 @@
 .panda-card{
     border: 0;
 }
-.panda-card-footer{
+
+.panda-card-footer {
     background-color: white;
     border: 0px;
+    padding: 1rem;
 }
 .categories img{
     width: 100px;
